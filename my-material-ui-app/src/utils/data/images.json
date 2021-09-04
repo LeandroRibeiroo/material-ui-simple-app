@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/3156482/pexels-photo-3156482.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "alt": "imagem de um carro"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/1670457/pexels-photo-1670457.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "alt": "imagem de um carro"
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/216216/pexels-photo-216216.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "alt": "foto de uma ponte"
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/1188214/pexels-photo-1188214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "alt": "foto de um parque"
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "alt": "foto de uma cidade"
+  },
+  {
+    "id": 6,
+    "image": "https://images.pexels.com/photos/586687/pexels-photo-586687.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "alt": "foto de um barco em Veneza"
+  }
+]

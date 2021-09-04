@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Internet via satélite da SpaceX preocupa militares do Brasil.",
+    "description": "A empresa de Elon Musk planeja lançar satélites de baixa altitude para oferecer internet, mas a 'constelação' pode interferir em operações de telefonia e segurança.",
+    "image": "https://images.pexels.com/photos/23781/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/ciencia/223993-internet-via-satelite-spacex-preocupa-militares-brasil.htm"
+  },
+  {
+    "id": 2,
+    "title": "Streamers do mundo todo fazem boicote à Twitch nesta quarta (01).",
+    "description": " Há cerca de 2 semanas, grupos de streamers brasileiros já haviam realizado uma espécie de 'greve' na plataforma.",
+    "image": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/voxel/224174-streamers-mundo-boicote-twitch-quarta-feira-01.htm"
+  },
+  {
+    "id": 3,
+    "title": "iPhone 13 sem entrada para carregador: boato intriga usuários.",
+    "description": "Rumores sobre o carregamento do iPhone 13 ser apenas sem fio surgiram em 2019, mas ainda não foram confirmados pela Apple.",
+    "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/produto/224129-iphone-13-vendido-entrada-carregador-entenda.htm"
+  },
+  {
+    "id": 4,
+    "title": "Apple Pay já está disponível no Nubank; veja como usar.",
+    "description": "Usuários que utilizam iPhone, Apple Watch, iPad e Mac poderão usar os cartões de crédito ou débito Nubank para realizar pagamentos.",
+    "image": "https://images.pexels.com/photos/5054539/pexels-photo-5054539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/mercado/224074-oficial-apple-pay-disponivel-nubank-veja-usar.htm"
+  },
+  {
+    "id": 5,
+    "title": "Ambev abre inscrições online para programas de estágio e trainee.",
+    "description": "As seleções ocorrem 100% online, não exigem teste de inglês e não limitam o candidato por curso ou faculdade.",
+    "image": "https://images.pexels.com/photos/5839461/pexels-photo-5839461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/mercado/224160-ambev-lanca-programas-trainee-estagio-representa-2022.htm"
+  },
+  {
+    "id": 6,
+    "title": "Energia elétrica fica ainda mais cara a partir de setembro, anuncia Aneel.",
+    "description": "Nova bandeira Escassez Hídrica traz cobrança adicional de R$ 14,20 a cada 100 kWh gastos; impacto na conta de luz deve chegar a quase 7%.",
+    "image": "https://images.pexels.com/photos/3855962/pexels-photo-3855962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/ciencia/224142-energia-eletrica-ainda-cara-setembro-anuncia-aneel.htm"
+  },
+  {
+    "id": 7,
+    "title": "Buser: novo PL pode inviabilizar a 'Uber dos ônibus'.",
+    "description": "A Assembleia Legislativa de Minas Gerais aprovou o projeto que propõe novas regras para o transporte rodoviário no estado, além de proibir aplicativos de ônibus.",
+    "image": "https://images.pexels.com/photos/2189308/pexels-photo-2189308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/mobilidade-urbana-smart-cities/224247-buser-novo-pl-inviabilizar-continuidade-empresa-entenda.htm"
+  },
+  {
+    "id": 8,
+    "title": " Nova assinatura do Mercado Livre traz Star+ e Disney+ de graça.",
+    "description": "Além do acesso liberado aos serviços de streaming, a assinatura, a partir de R$ 13,90, inclui desconto em fretes e mais benefícios.",
+    "image": "https://images.pexels.com/photos/4968386/pexels-photo-4968386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.tecmundo.com.br/internet/224239-nova-assinatura-mercado-livre-traz-star-disney-graca.htm"
+  },
+  {
+    "id": 9,
+    "title": "La Casa De Papel: 5ª temporada estreia na Netflix.",
+    "description": "A segunda metade da temporada será lançada em 3 de dezembro.",
+    "image": "https://i.glbimg.com/og/ig/infoglobo/f/original/2021/08/27/02112359593116.jpg",
+    "href": "https://www.tecmundo.com.br/minha-serie/224314-casa-papel-5-temporada-estreia-netflix.htm"
+  },
+  {
+    "id": 10,
+    "title": "Cérebro humano com olhos rudimentares é cultivado em laboratório.",
+    "description": "Em estudo feito com células-tronco, pesquisadores conseguiram desenvolver versão de um cérebro com olhos funcionais.",
+    "image": "https://images.pexels.com/photos/4031321/pexels-photo-4031321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "href": "https://www.megacurioso.com.br/ciencia/119775-cerebro-humano-com-olhos-rudimentares-e-cultivado-em-laboratorio.htm"
+  }
+]
